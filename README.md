@@ -2,7 +2,7 @@
 
 <h1 align="center">Sistema De Tarefas C#</h1>
 
- <h2> Faça alterações com as configurações da sua maquina na class BDD </h2>
+
 ![config gif](https://user-images.githubusercontent.com/47755944/95695898-5c72c400-0c0f-11eb-9778-9707e40f513d.gif)
 
 
